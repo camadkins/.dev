@@ -190,7 +190,7 @@ export default function MidnightMonolith() {
             transition={{ delay: 1.2, duration: 2 }}
             className="mt-8 font-sans text-xs tracking-[0.4em] text-stone-500/50"
           >
-            Software & Systems
+            Bigger things coming soon...
           </motion.p>
         </div>
 

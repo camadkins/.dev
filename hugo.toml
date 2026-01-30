@@ -1,0 +1,8 @@
+baseURL = 'https://camadkins.com/'
+languageCode = 'en-us'
+title = 'Cam Adkins'
+
+disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.renderer]
+  unsafe = true

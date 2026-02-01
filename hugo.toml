@@ -6,7 +6,8 @@ theme = 'camadkins'
 disableKinds = ['taxonomy', 'term']
 
 [params]
-  tagline = "Security, software, and systems."
+  tagline = "What happens after the first version."
+  signatureImage = "/cam-signature.png"
   [[params.links]]
     name = "blog"
     url = "https://blog.camadkins.com"
@@ -14,11 +15,8 @@ disableKinds = ['taxonomy', 'term']
     name = "github"
     url = "https://github.com/camadkins"
   [[params.links]]
-    name = "twitter"
-    url = "https://twitter.com/camadkins"
-  [[params.links]]
-    name = "cv"
-    url = "/cv"
+    name = "notes"
+    url = "https://notes.camadkins.com"
 
 [markup.goldmark.renderer]
   unsafe = true
